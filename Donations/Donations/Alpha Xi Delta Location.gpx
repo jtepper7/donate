@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:gpxx = "http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+    xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+    http://www.garmin.com/xmlschemas/GpxExtensions/v3
+    http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd"
+    version="1.1"
+    creator="gpx-poi.com">
+    <wpt lat="33.777860" lon="-84.391920">
+        <time>2018-12-02T08:14:35Z</time>
+        <name>Alpha Xi Delta Location</name>
+        <extensions>
+            <gpxx:WaypointExtension>
+                <gpxx:Address>
+                    <gpxx:StreetAddress>847 Techwood Dr NW</gpxx:StreetAddress>
+                    <gpxx:City>Atlanta</gpxx:City>
+                    <gpxx:State>Georgia</gpxx:State>
+                    <gpxx:PostalCode>30313</gpxx:PostalCode>
+                </gpxx:Address>
+            </gpxx:WaypointExtension>
+        </extensions>
+    </wpt>
+</gpx>
